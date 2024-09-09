@@ -1,7 +1,7 @@
 # Transfer-Learning
 Plant-Seedlings- Classification(ResNet50)
 # Execution-description 
-python train.py 訓練模型
+python train.py 訓練模型、
 python test.py 測試模型，產生 predictions.csv
 # Results
 training/validation loss curve
